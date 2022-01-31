@@ -6,7 +6,7 @@
 
 
 ## Introduction 
-This reprosatiry is a Dog breed classifier algorithm using CNN, the main functionality of the algorithm is to classify the dog breed by detecting an image of a dog, and it it's a human it will classify it to the most resembling dog.
+This respiratory is a Dog breed classifier algorithm using CNN, the main functionality of the algorithm is to classify the dog breed by detecting an image of a dog, and it it's a human it will classify it to the most resembling dog.
 
 ## Libraries Used
 
