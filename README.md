@@ -6,7 +6,7 @@
 
 
 ## Introduction 
-This respiratory is a Dog breed classifier algorithm using CNN, the main functionality of the algorithm is to classify the dog breed by detecting an image of a dog, and it it's a human it will classify it to the most resembling dog.
+This respiratory is a Dog breed classifier algorithm using CNN, the main functionality of the algorithm is to classify the dog breed by detecting an image of a dog, and it it's a human it will classify it to the most resembling dog. you can read my blog [here](https://medium.com/@janaalqarni45/dog-breed-classifier-a50a5884003f) .
 
 ## Libraries Used
 
